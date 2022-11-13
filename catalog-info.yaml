@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rohail3107.weather.io
+  annotations:
+    github.com/project-slug: rohail3107/rohail3107.weather.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: infrastructure
